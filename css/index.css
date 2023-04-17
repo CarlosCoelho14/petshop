@@ -1,0 +1,70 @@
+h1.titulo {
+	text-align: left;
+	font-family: Verdana, sans-serif;
+	font-size: 75px;
+	padding-left:85px;
+	padding-top: 85px;
+	color: #31006C; 
+}
+
+h1{
+	text-align: left;
+	font-family: Verdana, sans-serif;
+	font-size: 40px;
+	padding-left:85px;
+	color: #31006C; 
+}
+p {
+	text-align: left;
+	font-family: Verdana, sans-serif;
+	font-size: 20px;
+	padding-left:85px;
+	color: #31006C; 
+	
+}
+
+body {
+	background-color: #E2DAFF; 
+
+}
+
+.texto {
+	text-align: justify;
+	font-family: Verdana, sans-serif;
+	font-size: 20px;
+	padding-left: 75px;
+    padding-right: 75px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+	margin-top: 30px;
+	color: black; 
+}  
+
+.header {
+	
+	background-color: #31006C; 
+    padding-bottom: 50px;
+	font-family: Verdana, sans-serif;
+	font-size: 75px;
+	color: FFE2EB;
+	border-radius: 35px;
+}
+img.logo {
+    margin-top: 20px;
+}
+img.botao{
+	transition-duration: 0.7s ;
+	width: 30%;
+}
+img.botao:hover{
+	transition-duration: 0.7s ;
+	width: 33%;
+}
+.corpo {
+	
+	background-color: white; 
+    margin: 90px;
+	font-family: Verdana, sans-serif;
+	font-size: 75px;
+	border-radius: 30px;
+}
